@@ -14,4 +14,5 @@ if (verification === 0) {
    console.log("The number is zero");
 }
 
-// COMPLETED 
+/** Write an algorithm that checks if a number is positive, negative, or zero. Print
+a message on the screen showing the result. **/

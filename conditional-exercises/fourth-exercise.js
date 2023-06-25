@@ -1,6 +1,6 @@
-const numbers = [25, 50, 75, 100, 125];
+let numbers = [25, 50, 75, 100, 125];
 
-const highestNumber = Math.max(...numbers);
+let highestNumber = Math.max(...numbers);
 
 if (highestNumber === 25) {
    console.log("The highest number is", 25);
@@ -22,4 +22,5 @@ if (highestNumber === 125) {
    console.log("The highest number is", 125);
 }
 
-// COMPLETED
+/** Write a code that gets five numbers and then determines which number is the highest.
+Print the result on the console. **/

@@ -6,4 +6,7 @@ if (question >= 18) {
    console.log("You cannot vote");
 }
 
-// COMPLETED
+/** Write a code that gets the age of a person and checks
+if that person can vote (age 18 or older). 
+Then print a message on the screen indicating if
+that person can vote or not. **/ 
